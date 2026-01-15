@@ -38,8 +38,6 @@ https://www.linkedin.com/in/hirlandiaoliveira/
 <img align="left" width="30px" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" width="30px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
-<br/><br/>
-
 ---
 
 ### 📊 Estatísticas do GitHub
