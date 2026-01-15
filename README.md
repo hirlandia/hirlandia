@@ -44,16 +44,8 @@ https://www.linkedin.com/in/hirlandiaoliveira/
 
 ### 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=hirlandia&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirlandia&theme=tokyonight&layout=compact" 
-  />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hirlandia&theme=tokyonight)
+
 
 ---
 
